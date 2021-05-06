@@ -1,0 +1,6 @@
+br/com/coradini/awsproject01/controller/TestController.java
+ br.com.coradini.awsproject01.controller.TestController
+br/com/coradini/awsproject01/Application.java
+ br.com.coradini.awsproject01.Application
+br/com/coradini/awsproject01/config/SwaggerConfig.java
+ br.com.coradini.awsproject01.config.SwaggerConfig

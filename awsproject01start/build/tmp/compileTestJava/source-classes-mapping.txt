@@ -1,0 +1,2 @@
+br/com/coradini/awsproject01/MainApplicationTests.java
+ br.com.coradini.awsproject01.MainApplicationTests
